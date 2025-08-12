@@ -1,0 +1,19 @@
+numpy
+scipy
+pandas
+matplotlib
+
+## Installation
+
+### macOS / Linux
+python -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt -r dev-requirements.txt
+make demo         # writes results/demo_metrics.json + demo_plot.png
+pytest -q         # smoke test
+
+### Windows (PowerShell)
+python -m venv .venv
+.venv\Scripts\Activate.ps1
+pip install -r requirements.txt -r dev-requirements.txt
+python scripts/demo.py
+pytest -q

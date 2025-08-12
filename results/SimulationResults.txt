@@ -1,0 +1,29 @@
+--- Real-time Simulation Step 1 (Timestamp: 2025-07-29 18:41:11) ---
+Manifests parsed - Weights extracted! (No quantum ghosts in the cargo.)
+Manifest mismatch: 54.0000 - Possible tampering detected!
+Pattern-of-life disturbance: 562846.3514 - Entropy says: Black market bingo!
+Fusion Anomaly: 138.0%, Entropy Rate: 562846.3514 - Threats Fused!
+
+--- Real-time Simulation Step 2 (Timestamp: 2025-07-29 18:41:11) ---
+Manifests parsed - Weights extracted! (No quantum ghosts in the cargo.)
+Manifest mismatch: 56.5000 - Possible tampering detected!
+Pattern-of-life disturbance: 383518.9823 - Entropy says: Black market bingo!
+Fusion Anomaly: 142.0%, Entropy Rate: 383518.9823 - Threats Fused!
+
+--- Real-time Simulation Step 3 (Timestamp: 2025-07-29 18:41:11) ---
+Manifests parsed - Weights extracted! (No quantum ghosts in the cargo.)
+Manifest mismatch: 53.5000 - Possible tampering detected!
+Pattern-of-life disturbance: 452510.1495 - Entropy says: Black market bingo!
+Fusion Anomaly: 140.0%, Entropy Rate: 452510.1495 - Threats Fused!
+
+--- Real-time Simulation Step 4 (Timestamp: 2025-07-29 18:41:11) ---
+Manifests parsed - Weights extracted! (No quantum ghosts in the cargo.)
+Manifest mismatch: 54.0000 - Possible tampering detected!
+Pattern-of-life disturbance: 540469.9896 - Entropy says: Black market bingo!
+Fusion Anomaly: 139.0%, Entropy Rate: 540469.9896 - Threats Fused!
+
+--- Real-time Simulation Step 5 (Timestamp: 2025-07-29 18:41:11) ---
+Manifests parsed - Weights extracted! (No quantum ghosts in the cargo.)
+Manifest mismatch: 53.0000 - Possible tampering detected!
+Pattern-of-life disturbance: 556385.6574 - Entropy says: Black market bingo!
+Fusion Anomaly: 143.0%, Entropy Rate: 556385.6574 - Threats Fused!
